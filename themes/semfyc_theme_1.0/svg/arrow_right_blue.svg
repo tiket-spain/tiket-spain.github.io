@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11px" height="18px" viewBox="0 0 11 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M0.471206572,10.1433428 L7.85608795,17.5282241 C8.48512244,18.1572586 9.50690745,18.1572586 10.1359419,17.5282241 C10.7649764,16.8991896 10.7649764,15.8774046 10.1359419,15.2483702 L3.55262646,8.66505468 L3.55262646,9.33494532 L10.1359419,2.75162985 C10.7649764,2.12259536 10.7649764,1.10081035 10.1359419,0.471775866 C9.50690745,-0.157258622 8.48512244,-0.157258622 7.85608795,0.471775866 L0.471206572,7.85665725 C0.164372832,8.16349098 1.77635684e-15,8.5727285 1.77635684e-15,9 C1.77635684e-15,9.4272715 0.164372832,9.83650902 0.471206572,10.1433428 L0.471206572,10.1433428 Z" id="Shape-Copy" fill="#5789C7" sketch:type="MSShapeGroup" transform="translate(5.303859, 9.000000) scale(-1, 1) translate(-5.303859, -9.000000) "></path>
+    </g>
+</svg>
